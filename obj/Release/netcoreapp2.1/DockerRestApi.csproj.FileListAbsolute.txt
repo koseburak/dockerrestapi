@@ -1,0 +1,14 @@
+D:\Dev\GitHubRepo\DockerRestApi\bin\Release\netcoreapp2.1\DockerRestApi.deps.json
+D:\Dev\GitHubRepo\DockerRestApi\bin\Release\netcoreapp2.1\DockerRestApi.runtimeconfig.json
+D:\Dev\GitHubRepo\DockerRestApi\bin\Release\netcoreapp2.1\DockerRestApi.runtimeconfig.dev.json
+D:\Dev\GitHubRepo\DockerRestApi\bin\Release\netcoreapp2.1\DockerRestApi.dll
+D:\Dev\GitHubRepo\DockerRestApi\bin\Release\netcoreapp2.1\DockerRestApi.pdb
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.csprojAssemblyReference.cache
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.csproj.CoreCompileInputs.cache
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.RazorAssemblyInfo.cache
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.RazorAssemblyInfo.cs
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.AssemblyInfoInputs.cache
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.AssemblyInfo.cs
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.RazorTargetAssemblyInfo.cache
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.dll
+D:\Dev\GitHubRepo\DockerRestApi\obj\Release\netcoreapp2.1\DockerRestApi.pdb
