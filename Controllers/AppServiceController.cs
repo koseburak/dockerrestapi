@@ -9,6 +9,7 @@ namespace DockerRestApi.Controllers
 
     [Route("api/[controller]/[action]")]
     public  class AppServiceController : Controller{
+        
         public IEnumerable<AppService>  GetAll(){
 
             return new List<AppService>(){
@@ -48,6 +49,10 @@ namespace DockerRestApi.Controllers
     
         public IEnumerable<string> Demo(){
             return new List<string>(){ "Planlama", "Mobil Kurulum" };
+        }
+
+        public IEnumerable<string> GetDeveloperList(){
+            return new List<string>(){ "Alper SEZEN", "Burak KOSE", "Ibrahim ULUDAG", "Kursat ARSLAN", "Volkan KAHYAOGLU" };
         }
 
     }

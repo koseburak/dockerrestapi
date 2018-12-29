@@ -17,12 +17,6 @@ docker build -t dockerrestapi .
 
 ### begin repository image registry
 
-docker tag dockerrestapi registry.cna.turkcell.tgc/library/funf/dockerrestapi:latest
+docker tag dockerrestapi funf/funfrepo:latest
 
-docker push registry.cna.turkcell.tgc/library/funf/dockerrestapi:latest
-
-
-### openshift cli
-#oc login https://ocp-master.ocp.turkcell.tgc
-
-oc import-image dockerrestapi --from=registry.cna.turkcell.tgc/library/funf/dockerrestapi:latest --confirm
+docker push funf/funfrepo:latest
