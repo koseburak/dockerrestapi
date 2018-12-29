@@ -52,7 +52,7 @@ namespace DockerRestApi.Controllers
         }
 
         public IEnumerable<string> GetDeveloperList(){
-            return new List<string>(){ "Alper SEZEN", "Burak KÖSE", "Kürşat ARSLAN", "Murat ARSLAN", "İsmail KANAT", "Utku TOPÇU" };
+            return new List<string>(){ "Alper SEZEN", "Burak KOSE", "Ibrahim ULUDAG", "Kursat ARSLAN", "Volkan KAHYAOGLU" };
         }
 
     }
